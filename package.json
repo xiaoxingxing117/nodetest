@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "node.js test",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxingxing117/nodetest.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "kongzhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoxingxing117/nodetest/issues"
+  },
+  "homepage": "https://github.com/xiaoxingxing117/nodetest#readme"
+}
